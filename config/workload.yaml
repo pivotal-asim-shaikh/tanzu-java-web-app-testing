@@ -16,4 +16,4 @@ spec:
       ref:
         branch: main
       url: https://github.com/pivotal-asim-shaikh/tanzu-java-web-app-testing
-    subPath: tanzu-java-web-app-testing
+    # subPath: tanzu-java-web-app-testing
