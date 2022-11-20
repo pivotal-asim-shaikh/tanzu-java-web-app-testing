@@ -15,5 +15,5 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/pivotal-asim-shaikh/tanzu-java-web-app-testing/tarball/master
+      url: https://github.com/pivotal-asim-shaikh/tanzu-java-web-app-testing
     # subPath: tanzu-java-web-app-testing
